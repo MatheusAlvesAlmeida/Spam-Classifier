@@ -14,4 +14,5 @@ For a better understanding of the project I suggest you to see the jupyter noteb
 Check out the links below for more information on Natural Language Processing:
 
 http://www.nltk.org/book/
+
 https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
